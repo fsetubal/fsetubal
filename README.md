@@ -1,10 +1,10 @@
-<h3> Welcome! My name is Filipe!</h3>
-<p>
-I'm studying Systems Analysis and Development and looking for an internship.
-<br>
-Please make yourself comfortable and feel free to contact me if you wish.
-</p>
+### Welcome, I'm Filipe! ⛱️ 🏊‍♂️
+- 💻 I'm studying Systems Analysis and Development.
 
+- 💼 I'm looking for an internship.
+
+- 💬 Please make yourself comfortable and feel free to contact me if you wish.
+#
 <div>
   <a href="https://github.com/fsetubal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsetubal&show_icons=true&theme=transparent"/>
@@ -22,5 +22,7 @@ Please make yourself comfortable and feel free to contact me if you wish.
   
 <div>
   <a href="https://www.linkedin.com/in/setubalfilipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:setubalfilipe@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:setubalfilipe@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
+
+ 
