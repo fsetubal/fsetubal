@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/fsetubal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsetubal&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsetubal&theme=transparent&layout=compact&langs_count=8"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsetubal&show_icons=true&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsetubal&theme=codeSTACKr&layout=compact&langs_count=8"/>   
 </div> 
   
 #
