@@ -20,8 +20,8 @@
   
 <div> 
   
-  <a href="https://www.linkedin.com/in/setubalfilipe" target="_blank"><img align="right"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:setubalfilipe@outlook.com"><img align="right" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/setubalfilipe" target="_blank"><img align="right"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=blueviolet&labelColor=black&color=black" target="_blank"></a> 
+  <a href = "mailto:setubalfilipe@outlook.com"><img align="right" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=blueviolet&labelColor=black&color=black" target="_blank"></a>
   
 </div>
    
