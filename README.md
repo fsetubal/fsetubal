@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/fsetubal">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fsetubal&show_icons=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsetubal&theme=github_dark&layout=compact"/>   
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fsetubal&show_icons=true&theme=midnight-purple">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fsetubal&show_icons=true&theme=midnight-purple&layout=compact">   
 </div> 
   
 #
