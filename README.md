@@ -2,8 +2,6 @@
 
 - 💻 I'm studying Systems Analysis and Development.
 
-- 💼 I'm looking for an internship.
-
 - 💬 Please make yourself comfortable and feel free to contact me if you wish.
 
 #
